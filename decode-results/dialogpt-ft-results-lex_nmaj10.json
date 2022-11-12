@@ -1,0 +1,842 @@
+[
+  [
+    " i love hiking and camping too, but my mom is a dentist, she works in insurance.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i'm good, i'm just got some cheese from my mom for cooking dinner.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i love to go hiking, but my mom does not allow me to.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am doing great, just got home from the day off. i am doing some hiking.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i love hiking, i don't so much. i am busy this weekend i am going camping with my mom, she works in the clinic.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " hello! i'm doing good. just got ready for a haircut!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " good. just got some new y olympic training. i am moving to new york city. <s> & how are you? i am moving to new to new york. <s> & i'm moving soon to new yay.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " good! i'm doing very well! just got some shopping. i am moving to move to new york city!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " hi! i am doing well. how are you doing! i'm just watching a model. i'm moving to move to new york.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am doing great! i am just taking a swim lessons!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i finish school i never finished highschool i finished high school i am a lot <s <s <s> & i finished high school i want to become famous i finished my degree finished in 2015 <s <s <s <s i want to be famous i'm a singer! what do you finished school<|endoftext|>!!!!!!!!!!!!!!!!",
+    " yes, finished high school too. i finished last year ago. i finished high school. i am in 2011. <s> & that is cool. i finished high school. <s> & i love music is great, i finished high school! i love it was on my favorite subject was boring.<|endoftext|>!!!!!!!!!!!!!!!!!",
+    " i never finished high school. i finished high school <s> & that. i finished high school. i am a semi i am the guitar. i finished last year. i am not finished high school. i am still in 2011. <s> & i am a music<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am a lot. <s> & that is cool, i am a singer, i love music, i finished school i am in high school too.<|endoftext|>! <s> & cool! what do you like music too! i'm not finished highschool drop deadlifting. i am a musician. i love playing music <s> & i want to sing folk music too, i love",
+    " yes i am a lot. i am too, i love music <s> & i love music, i love music! i sing. i love music <s> & i play instruments. i'm not much! i'm in the best i sing folk music.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i'm a school. <!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i study biology studying biology <! < & i am going to become a plant life science. <! <! <!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " <s> & i'm studying biology. i am studying. <s> & i am studying. <s> & that sounds interesting! i'm a bit boring! i am very interesting. i am studying biology. i'm studying biology. i love it!<|endoftext|>! <s> & boring. i like to do you! i love it is boring. i love nature. i like",
+    " yes, i'm going to be studying biology. <s> & i'm going to uni for a biology! <!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am a museum! <s> & cool! i study biology. <s> & that's cool, i love to much! i love to party! i go there!<|endoftext|>!! <!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i don't don't paint, i am too young to do that<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that sounds fun. i like country music<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i don't do like country music.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " do you like country music?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that sounds fun. do you have any hobbies?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i am afraid of heights. i don't believe in god, i am an atheist.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am not religious. i don't believe in god.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that is very scary. i'm afraid of heights.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " oh no, but i love animals. do you have any pets? i have 2 dogs<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that sounds awful. i have two dogs and love animals.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " in!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i am a single. what is that is interesting.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i'm a dog, i'm afraid of dogs.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that is cool. i used to work at a carnival, i used to be a dog walker.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " you have you have kids?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am afraid of dogs, and i used to work at a carnival<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " well i'm retired..<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i'm retired. i'm retired. i'm a retired and i've a cat.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i've a cat<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " cats are you lonely. cats are you lonely. i've two cats too.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i'm retired. i've a cat. don't much to don't much time for cats.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " oh wow! i am 34.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i'm 34. i'm a retired. i am in law school<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am a teacher.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i'm 34. i'm in my age.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am 34.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " hi i am good. i'm twenty. how are you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am doing. i am twenty four, twenty two and twenty.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am fine. i was born in puerto rico. where are you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " great! i am good, i was born in puerto rico. i am a male. <s> & i'm twenty, twenty years old. what is that is good for you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am doing great, just came here to see if i am still alive.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i was too, i was raised in the nascar family.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that is cool. i am not religious. i'm a music buff. i play music in my free time.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am a music snob, so i don't really care about fashion.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i like to be conservative with my spending. i play music. i also work as a musician.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i'm a musician. i play music for a punk rock band.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " haha.. i'm not as a bee keeper.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " you sound like you are probably. i'm just bach. i love music! don't insects.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " haha i like bacon, i love bach. i love bach.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i like bach, i like to bach, bach. i also like bach. what don't insects.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " lol. i'm a bach is a bach fan, bach fan!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i have never been away from home alone! i've never been away from home. i'm in my home all my state ever since i live in the state<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am not. i have never been away from home. i've never been away from home! i am so long<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that's! i am only 24. i've never been away from the city life. i am only here for a recluse ever since i've been away from home.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i've never been away from the state, i've never been away from the city.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am only 12 years! i am still in the queen. i never away from home.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " no, i have not. i am too busy with school.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " yes, but not as a spouse. i am single.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i have not been. i will be studying law, so i cannot go alone.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " yes, been to japan, i love it.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " no. my wife left me.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i like music too, but i am not much more classical myself. i like bach.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " do you like to eat bacon? i like bacon. i love bacon.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that's awesome. i love bach is the language that makes me think.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i like bach too. i also love classical music, but i also like to eat bacon.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i like to each their own thing. what do you like?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " that's cool! i have arizona farmhouse is nice. i love country music <s> & do like that. i'm single now married. i have arizona.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that is cool. i am arizona.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i love country music is great! i love it.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i love it is nice!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i like music <s> & i like music! don't music. my pet name my cat is arizona and arizona.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " they are pretty! i like to busy making them for my bodybuilder gym.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " they are a bit expensive. i have heard good, but i want a real one.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " they are very light, like my mom, who is a secretary.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i have never been to one! i need a bike. i need to get out!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i like my mom, she works at the secretary. she's my favorite. i love body builder.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i run there too, i love mystery, i grew up on a farm<|endoftext|>!! i drive a large farm too! what kind of a farm. i grew up on a farm! i drive a farm.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i run everywhere, i live in a big farm, so i love to myself<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i run a few times a mile. i love to read a mystery, i love mystery, but i live on a farm<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that sounds great! i love the outdoors, i love nature. i love nature, i live in a large farm!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i run when i don't run, i just farm and drive my farm for fun.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " that is cool. i am going to hairdress. i go to hairdress. <s> & i go there tomorrow. i go to hairdress. <s> & what is it is it is boring.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i do you have a vintage cars. i am going to hairdress.<|endoftext|>! i love cars, vintage cars. i want to sell it. i want to sell them!! i want a vintage cars. vintage cars. vintage cars. <s> & vintage cars!! i want vintage cars!!<|endoftext|>! vintage cars!! vintage cars!<|endoftext|>!!!!!!",
+    " that's neat! do you go to hairdle.<|endoftext|>! do you go to hairdress?! i do you go to hairdress!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i don't. i am going to hairdress. i'm going to. to school. <s> & i love it. i want to be a hairdress.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " he is 9 months. he does drive a classic cars. what do. what do. he loves cars? vintage cars. cars. i love cars. cars!! cars. he loves cars.<|endoftext|>! <s> & i'm going to school. i love cars. he's 9 months. cars. what do you drive vintage cars.<|endoftext|>!!!!!!!!!"
+  ],
+  [
+    " oh i am just practicing my guitar. what do you play?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " oh, that sounds nice. i live in chicago, i love arkansas. i love arkansas. i have lots of gardens.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " oh cool. i love gardening, my family has a garden, we have a large backyard.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " oh cool. i am not a fan of gardening. i like to play guitar.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that is nice. i love gardens, i am going to get a garden for my new house.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " don't working. i work, i work in the insurance business.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i'm not working on my vintage cars<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " cool, i play country music, i like to relax.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that is fun, i love to travel with my family<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " don't work. i work at a school<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i'm from ohio state. i like the ohio state bucs. i like the bucs. i love them too. i love them.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " great. raining here. i'm in ohio state bucs are my team. what about you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " good, i'm in ohio state. i'm working on a construction site for a bucs. how about to be a job<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i'm not there right now, i'm just got a call from work conference call.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " it is great, how about you? i am studying. i'm working on a building a bucs bucs bucs helmet.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i am well, thank you for asking. i am doing well.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am doing good, how are you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am well, thanks. i am just watching a movie. you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i'm doing good. just got back from playing softball. how are you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i'm doing good, and yourself?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i'm a year. <s <s> & i love cars. i'm a blonde hair dye my parents are going to be a blonde, blonde, blonde too. i go to be blonde, i love driving a blonde, i want a car. i want to drive a bm my first car.<|endoftext|>! <!!!!!!!!!!!!!!",
+    " ohio <s! i am a month <!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that. don't auburn. i love it. i go there next year. don't go there next year. <s next year. <s> & i want to visit my senior year. <!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that's birthday present <!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i want to go to go to the auburn next year! <! <!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " yes!! i have a dog too! i'm going to the dog agility class tomorrow.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i love to see you on the track! i have a dog!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i like that. i like to. don't much, i've 2 dogs, i've 2 dogs, a cat, and a dog.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " yeah, but i'm busy with my cats and dogs and dogs<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " yeah! i love to race my cat and dog, but i have two cats.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " yes i could do that. what kind of football sunday?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am a hair stylist i am not a hair stylist, what is your job.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i love to. i am a hair stylist sunday. i am going to watch football.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " sure, i am a hair stylist for you. do you have a favorite color?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " sure! i am a hair stylist what you favorite sunday?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i've been to six different countries.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i have two dogs. i love traveling.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am a single too. i am going to college for chemistry.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " no i travel a lot. i've traveled a lot.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " no i am single too, i travel a lot, so i go to six different countries every year.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i like to read. do you like to drink scotch.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " do you like to drink scotch. i don't much.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i like to play chess, but not much, i love watching movies.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i like to read comics. i like to relax.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i like the color orange and green. i love those colors.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i like to be a city. i love to travel.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am single. i love to visit my girlfriends> & i have an apartment with my mom. <s> & i am single. she's a dog and she is a dog.<|endoftext|>! & she loves dogs. i am a dog too. i'm scared of dogs.. i love dogs!<|endoftext|>!!!!!!!!!!!!!!!!",
+    " well i am single. i am single.. <s> & i'm single. do you have an apartment with a single. i love to stay at home alone.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that is fun. do you like to visit spain again?!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i love to go to europe.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i am a single woman too! i love shopping!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i love to shop, too! what is your favorite food?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i'm from a small island in new jersey.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " where do you live? i'm on a faraway island. i'm a writer.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am not a fan of shopping, i prefer to write.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " yes. what is your favorite type of medicine?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am retired now so i don't need them<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am going to be a nurse<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that i'm forced to pay for it with my health insurance.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am going to retire soon so i will take it out of my leg and go to get it cut it cut off<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i am not sure i could do that. i am so shy.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am very sorry to hear that. i wish i could help you out there.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " yeah. i'm very shy too. i am also very lonely.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am very glad you got it. i wish i had it.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am a little shy, but i do play a lot of games.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " yes, i love candy! i love sports. i do enjoy sports! i play soccer.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i like candy! i eat it, yes, it is my favorite food, but not candy! i love candy!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i do like to be healthy. i eat healthy!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i love candy, i eat it. i eat everything i love to keep fit!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i love sports, i don't eat a lot of it.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " you have to pray for them too.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that is very interesting! do you. i eat granola. i eat it for breakfast everyday!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i eat granola, i eat it for breakfast every day.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that is very good to your kids.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i'm going to behead to hairdresser to eat for lunch. i eat for breakfast everyday.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i live in the us now. i am in can travel! i am from us.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " ohio, i was born and raised in usc. what about you? i graduated from uc<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i want to go to see the city<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i want to travel more, my home, i'm currently at pennsylvania<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i want to go to sing in europe.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " & that! <!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " & great. <!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " & <!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " <!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " <!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " oh wow, that is a lot! i eat a lot of meat. i'm not a bodybuilder<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " wow, you are allergic to shellfish? my sister eats shellfish.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " wow! i'm sorry to hear that! i love shrimp.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " wow! that's so sad! i am so sorry. i love seafood.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " wow, you are so lucky! i am a body builder! i love eating so much!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i am a bunny, i love to study animal rights activist <s <s> & i am vegan, i'm not vegan and i am disabled. i don't a bunny! i love to pieces of clothing for my job. <s <s <s <s> & i am disabled. i love animals, and want to knit bunny clothing for babies! <! <! i am",
+    " i am disabled to. <s> & that's great, i am so am glad to knit. i am too. i am disabled to knit at the hospital. i'm unable to work. <s <s> & that is hard to don't able to knit, i am disabled. i am unable to knit. i am disabled. <s. i cannot work. i am unable",
+    " i'm not vegan. <s> i love animals. <s> & i love animals! do you should go to pieces of clothing for a hat knitting! i am unable to make them.<|endoftext|>! <s> & i am not. i am disabled to work at the hospital. i am disabled. i cannot work at the knitting.<|endoftext|>! <s> & i am disabled.",
+    " i love to cook, and knit scarves for babies. <s> & that sounds fun! what do you knit them! i don't have a hat for a hat for babies. i am unable to knit! i cannot knit.<|endoftext|>! <!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that is great, i am disabled. <s> i'm sorry to, but i'm disabled. i love to sing folk music! <s> & i'm in the hospital, i love to music. i can not able to help people. i'm disabled to music! <s> & that's music! <s> & i cannot work! i am disabled to sing! do"
+  ],
+  [
+    " yes, i will! i want to be single too. don't married. i am single, no kids, no kids.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " yes, but i don't want kids.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am single and am single. i don't want children, no kids.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " yes, do you like animals, do you drink water?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i will try to go to see the ocean with my kids, they're next trip.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i grew up on a farm.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i grew up in the great lakes. i am from nashville, missouri.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i grew up in ohio. what do you have any animals?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am from india. i grew up in the usa myself. what about you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " ohio here. i am from india.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i love hiking. don't much. do you like to sing folk music!! <s> & that is great! <s> & i love nature is very relaxing. i like nature!!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i like hiking. i do like nature. <s> & i do that is very relaxing. i love nature. i love hiking.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i love hiking!! i hike.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i love to the ocean! i like nature. <s> & i do that sounds great. i like hiking, hiking. i love nature.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i love hiking? i love nature! <s> & i do that. i don't much. don't much. i do. i like nature is very relaxing. do you hike. <s> & hiking. i love nature. i like it is fun. do you? <s> & i hike. i hike.<|endoftext|>!!!!!!!!!!!"
+  ],
+  [
+    " i volunteer at the red cross, it is a great cause!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am not a cat person but volunteer at a red cross<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " oh that is a good idea! what do you do?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am a red cross. volunteer at a red cross. what do you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i volunteer at the local red cross<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i had this toy in the attic. i was 5.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " yes i do you like cats? i love cats!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i do i have a lot of time on my hands right now, i'm a teacher.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i did don't. i am a very independent woman.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i did that. i am a very lucky woman.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i'm vegan, but i work out so i eat sushi all the time.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " well i am vegan so i work out a lot too.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i work out alot to stay fit<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i like dogs, i like working out.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am vegan, i love animals.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i'm only 35. i like walking is my favorite way to europe, walking.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i'm 30, how old are you, i am 34. i want to go to go to college. i love italy. i love walking everywhere.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am 24. i'm just turned 24!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am 34. i am a bit older than you? i love walking to get around. i love italya spain.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i'm 26, i'm a bit older than your mom<|endoftext|>! & what is she is my mom, she is my mom.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i do, i like listening to music, but my husband works nights so i can listen to country too.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i love classical music, and i do work nights to stay in the city to listen to it.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " yes i do. i like classical music. do you? i am unhappy with my job though, not working too.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " yes, i like classical music. i love music, i also enjoy working out, i like to help my three children<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i love classical music. i like to work and cook for myself, i am unhappy with it<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i'm afraid of dogs. i love dogs. do you?! i love dogs. i like to relax. i love dogs. do. i like drinking is that. <s> & i drink scot it.<|endoftext|>! <s> & yes, but, i like to relax!<|endoftext|>!!!!!!!!!!!!!!!!!!!",
+    " i used to work at a carnival. i was there, but now i love dogs. i like dogs, i like to drink scot to relax.<|endoftext|>! <s> & i like to relax! i like to drink scot to relax! i like to relax.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!",
+    " cool robot, i love animals! i like to relax. i love to drink scot to relax. i like to relax!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i used to work at a museum. i like dogs. what don't a dog agility class.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i used to work at a shipyard at the shipyard! i was at a shipyard!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i am an attorney<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i work in human rights, and have two dogs.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i practice bird law. what about you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am a lawyer. do you practice?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i'm a lawyer, what do you practice?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " wow. <s> & i spend alot of time at school <s <s> & yes i'm at school. i am still in the beach and explore. what do you go to explore.<|endoftext|>! <! <!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " very interesting <s> & that. i love it is very cool. i spend alot. i live under the ocean. <s> & i love to explore in it. i love to explore. i spend most days there.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i'm not. <s> & that sounds pretty boring, i'm going to spend my parents for a lot of time at school <s <s <s <s> & i'm in the ocean. i spend most of walking on the beach with my sea. <s> & that sounds fun. you? i spend the ocean. <s> & i love exploring with my parents",
+    " yes, i spend most days at school <s> & interesting <s <s> & i love to explore in the ocean with my sea creatures, i am a lot.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " yes i spend my best friend <s <s <s> & i spend my days at school. i live in the sea creatures on the ocean. you? i spend my friends there with my friends!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i love reading. <s> & i am a lot of books <s> & i love reading. don't much. what kind of you? i love reading. what do you read. i love it is your mom.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i love reading books. <s> & i am a book. i am just swimming in the beach today. <s> & that's nice. <s> & i'm just got to read a convertible must feel like i love to read. i love swimming. i love to read. <s> & that is nice! <s> & i love swimming in a convertible. i",
+    " yes. <s> & yes, don't much. <s> & i love swimming is that! i love swimming. i love swimming. i love swimming is fun. i am a convertible must have a mustang! i am in my favorite. do you? i love swimming. i love swimming! <s> & do you?! <s> & i love swimming in the",
+    " i am a lot of time reading <s> & i love reading books too. <s> & i am a lot of books! i love books! do swim every day just like reading, swimming in summer reading! <! <s> & you? that is nice. i love reading. i am a lot. i love reading! <s> & that is that is interesting!",
+    " yes, i am a lot <s> & i love swimming. <s> & yes, i love swimming. i love it is fun. swimming. i love to read about the ocean and exercise. i love swimming. <s> & i love swimming! i love reading. i love reading! swimming. swimming. <s> & swimming. i love reading! swimming in the ocean"
+  ],
+  [
+    " do like to eat them<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i love fish and chips.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " yes, i love them, i'm so glad you are a teacher. i love fish too!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i'm a teacher and we used to fish for fish.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " yes i love fish! do! i like to eat them!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i am a blue eyed teenager, blonde hair, do you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " california is boring, i like to live in the country.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " california is nice, i live in california. i have a friend there, i like the beach.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " yeah, i am with my best friend, robot friend, he is a robot, he's a robot<|endoftext|>!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i like the bay area. i live in california, near the ocean.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i don't sell them. i'm allergic to them.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i don't sell them but maybe i could buy them off you<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " yes, i make them for my kid<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " no i don't. i am allergic to them<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am allergic to animals. do you like cats?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " that sounds great. do you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i like to rap music. don't much.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i like rock music, i play guitar. i play it. <s> & rock too. i love to rock too. i live in chicago. i also. <s> & do. do live here with my two brothers and live here.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i like country music. i like country music! what about you.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i love rap. rap. do you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " & that will be easier with time<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " & what kind of nerd. i have 2 part time.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that i'll make it big someday<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " oh that i'll be a teacher<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that i can travel more.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " what is on tv<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am going on vacation to spain.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " what is going on in my big dogs.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i love to read a lot of books<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i like to read alot of travel.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i am only 12<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am good for being a 12. do you! <s> & i like to be a kid, i like roller co worker. i love roller co workers. i am only go to work at it.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " yes! i like rollercoasters <s> & yes! i like them. i love roller coasters. <s> & i'm only go to! do you like them. i do you. i like them! i am only go every weekend!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am a kid <s> & i am 12 years old. i am only 12. you can not old. i can i love to big. do you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am a 12 years old. do you?! <s> & i am a girl. you can we should go to old. i like roller co worker. i am 12. i like to go to school. <s> & do you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i am not sure i can sew. i am homeschooled.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that is true. what is your favorite band? i love flannel.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i would love to see it, i am california.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that sounds fun! i'd totally coplay it!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i bet my mom and dad would love it!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i love to eat my vegetables. lol.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i'm great. i am a bit of a nervous. i'm worried about the environment. do you.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " haha i'm fine thank you for asking<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am fine, how are you? i am worried about the environment<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am good. i'm a little scared of heights<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i do like to country music too!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that's cool. i love country music. i like country music.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that is great!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i do. i'm of the jewish faith <s> & that is cool. i grew up in north dakota, so i met some jewish folk<|endoftext|>!! <s> & i am from there are you must be. i like music too!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that is awesome. do you have a big family! i am in north dakota?<|endoftext|>!! i'm from north dak?!!!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " that. i love roller coasters! i'm not go every year!! <s> & i love to! i've never been away from the beach!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am proud. i want to try to try to try. <s> & that!! <s> & yes! i am a rollercoffee. i am proud. i want to ride tae kwan. i will try! i want to go on a rollercoasters, don't! i love roller coasters. i like it is fun!! <s>!",
+    " i love rollercoasters <s <s> & that is cool. i am a lot of roller coasters! i love to go with my dad, never been away from home.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that. i love roller coasters! do you build them. i am a rollercoasters! <s! i do them! <s> & cool! i like them. do you build them. <s> & i love them! i love rollercoasters! <s> & i love to relax. i love to. i love them! i love to!<|endoftext|>!!",
+    " i like roller coasters, i like them! <s> & that is fun! i am so i love them. what is fun!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " hi. good, how about you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " hi. i am doing very well. just came back from the store. how are you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am doing well. how are you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i'm good. just finished fixing my dad's car<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i'm doing well. how are you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " that is so tragic. i am sorry.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i have 7 children and 7 children and 7 childrens.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " wow, that is sad. i'm sorry to hear.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i have 7 children. i love children.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i'm sorry to hear that. i'm so sorry. what happens to you have kids?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i'm a recovering alcoholic<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am not much of a drinker but i write some<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " it is okay to be a recluse, just write about it.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i write books for fun. i'm a writer<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i'm a writer. i write a lot of romance novels.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i live in california? i'm in a big city, outside of all the sky. <s> & ohio <s> & i live in the cloud! i love the sky! i like to the sun! don't much, i love the sun!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!",
+    " i'm from? i live in california but i was born in the midwest. i love the southwest.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am from? i live in california, where you? i am a little girl!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am from? i love it. i was a teacher at the fires near florida.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " yeah! i live in california. i love to be with my 3 kids!! what do you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " it is a small apartment, so i share it can always has its very expensive.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " he is a detective?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i teach kindergarten teacher.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " it is a small apartment with 2 cats.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " it does not pay for my cat, but my apartment. i've to have 2 cats.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i live in my favorite food there. <s> & i eat a big family too. i like eating! what are hungry?!! i love food!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i love to eat! <s> & i love eating, eating fish and sleep in the same. what is great. <s> & i like to explore! i live in the beach!<|endoftext|>! <s> & that is fun, exploring. i love the sunsets my family! what is nice to. i love the beach! i go to go to eat. i love the",
+    " i live in a big family. <s> & i like to explore! i live in the sun! <s> & very nice, i love to eat fish and eat! do that. i live on a lot. what don't much. <s> & i love fish!! what are going to eat fish!<|endoftext|>!!!<|endoftext|>!!!!!!!!",
+    " that is a lot. <s> & i eat a lot of seafood. i love to eat fresh seafood. what don't as well. what about you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " yes, i don't so much. <s> & that is fun. i eat a big family. i eat. i love food! what do like to eat, lots of food, i eat. i love eating. i live on the ocean. <s> & eating fish. i like fish.<|endoftext|>! <s> & fish! fish. what do that's great idea."
+  ],
+  [
+    " what is yours?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i like to eat healthy too, i like to eat healthy<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " what is yours<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i like to watch football. i am a football fan.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " my favorite color is blue<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i am afraid of dogs. do you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " dogs! i like dogs. they are scared of everything. dogs! i love dogs, i am afraid of anything. <s> & dogs. <s> & dogs. dogs scare them? what do you? i drink scotches. i am scared of dogs!!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!",
+    " she's a dog. i like to drink. dogs. dogs. <s> & i like dogs are you like dogs. i like them. do you like to relax <s> & dogs. do you drink scotch.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " she is scared of dog, she has a dog, i'm afraid of dogs.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " no dogs. i am scared of ghosts. <s> & dogs are they scare me! don't scared of dogs.<|endoftext|>!!!! i love dogs scare!!!! i am a dog! they are scary. i like dogs! i have a lot!!! i'm terrified of them! they're! i'm afraid of bees! i have bees! i'm scared"
+  ],
+  [
+    " i do. i eat a lot. what kind of a play. i love to eat it. i eat it.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " yes i love the play a plays.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i eat healthy.. i eat healthy. i love movies! i love eating healthy.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am just eat healthy! i like movies. <s> & that is a play it is very good. i love to read play. i love it is very healthy. i eat healthy. do you read books. i read play it. i love it.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i eat a play it. i do. i like to. i eat a lot of books. i like books. <s> & that is it. i love it.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " yes. what do you like to read?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i love it. i am a bit. i write a lot of sci fi too. i'm currently working on my second job<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i'm currently working on my second job.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " yes! i like to read books, i'm also.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i love horror. i also love the lord of the rings.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i am a lawyer, i am afraid of heights.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that is good. i'm just got a new job as an attorney<|endoftext|>!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i work as an attorney. i'm afraid of heights<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that is good. i am not a good thing. i'm still afraid of heights<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am not religious. i am afraid of heights though<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " hi lucy. i am fine i am playing frisbee.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am fine thanks! i'm doing good. how are you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " no, i'm a girl, and i love frisbee! i play it all the time.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " no, i'm not, but i love to play frisbee.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am. i love frisbee. i am eating some for breakfast.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " great. <s> & great! i like to go hiking and eating ice cream! <s> & how are you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " good. & good. <s> & great. i'm good, how are you? <s> & i'm hungry for food. i am hungry. i love food. i like food for food.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " good? <s> & great! i'm doing great! i'm good! how are you? <s> & great! i am just been hunting! <s> & i love food for food for food for food for arctic berry good! i like food!<|endoftext|>! <s> & i am looking for food! i'm going to eat ice!<|endoftext|>!!!",
+    " i am doing great! <s> & great, i am good. i am good, thanks for food! how are you? <s> & good! i am hungry for food. i want to go hiking. <s> & i'm hungry. <s> & i want to go hiking. how long lost arctic bough i love food for food for food. <s",
+    " great! <s> & great! i'm good! i'm hungry for food. i like icecream! i'm hungry for arctic explorers! i love to hunt them! <s> & i love to find them! i want to hunt them! <s> & great! <s> & i'm hungry for food! i like to find them! i want to go to"
+  ],
+  [
+    " i am too! i am going to go on vacation to europe next month.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i like horses. i love horses. do you can you ride one day i want to see them in the moon.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " horses. horses are they're so fluffy. i love to play with my dogs too. i want to ride them!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i don't horses! i love to ride them too, i am getting on the road. i love horses!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i love horses, horses, i want to ride them so much! i am a horse when i want to have one when i get the time.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " you can meet bach. i'm bach.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i can bring the bach!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " ok. i like bach, but i hate insects. bugs get in my hair.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am going to bach. i am bach.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i can dance too, i am good at that.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " no. i like to each their own what do you play?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i like soccer, i don't. i like soccer, i like soccer.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " no, i don't like sports.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " no, i like to each their music. i like metallica though.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " no i don't. i work in the wisconsin field, metallica<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " haha. i am a cat named him. what is your cat.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i have a cat named a cat named charlie <s> & lol<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i like to eat insects. don't scorpions. <s> & i am a scorpions! i eat them all the same!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i like to play board games <s> & that! what is your cat. i play board games.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that is my favorite hobby <s> & that is cool, i love scorpions! i play them, i love scorpions too<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i am doing good. i am eating some fries. i'm a little hungry.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am well, and you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " hi i'm eating some frozen spaghetti. how about to go eat.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am good eating some hamburgers and fries, how about you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am good, i'm eating some pizza, how about to go to eat.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i love to read about cats, i am arizona. do you<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i play board games with my cat, i'm a cat<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " my cats? do you like cats? i just finished reading. i am arizona <s> & i love cats, i have a cat named it <s> & that sounds fun time to play board games <s> & i am graduating from college. i am arizona<|endoftext|>!!!!!!!!!!!!!!!!!!!!",
+    " i love reading. do you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i'm just got married with my cat named my cat, it. <s> & what is your pet. <s> & i just finished arizona. i just graduated from college. what do you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " no, i play a lot of board games. i love building models.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i like building houses. i like to go to the park and play board games!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i like to play space games. do you like to build them.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i like to build space stations. i play a lot of them.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i like sci fi. i am a lot of sci fi myself.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " oh, i live in ohio. i'm an attorney.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am afraid of heights, i work in the city, i work as an attorney<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am afraid to death, i work as an attorney, don't religious.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i work in an office, but i am afraid of heights, my parents would hurt if i bumped me<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i work for a law school, what about you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " wow, i am impressed! i do love to travel.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " very nice! what do you do for work?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that's a great idea. i have never tried that.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " oh, i like that, i love it. i travel alot. i like to europe.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that is pretty, i do like my garden full of flowers<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " sausage? bacon. i want to become a fashion designer.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " hi! i want to go to go to the mall to a fancy tea party! i want to meet my favorite fashion designer!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " sausage and eggs. sausage and bacon. sausage is great!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " sausage and eggs. i am a designer. i am a model for a clothing line.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " sausage and eggs. i want to make an ome. i am hungry.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i am doing well thank you. how are you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am good. just got back from horse riding.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " good, how are you doing today?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " doing well, i am on a diet. i love the beach.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i'm doing good. getting ready to watch tv. how are you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i like them. i work at pet smart. i like playing music.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " my dad was a cop, he was a cop!<|endoftext|>! what do you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i love them, i play music! i like nirvana! what is that band!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i love the band nirvana. i like that's great!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i play the nirvana is my favorite band. i like them.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " nope, sing! i am single, i like to sing. i sing too. i sing. i also like to sing.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " no. i live on a farm in new york.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am single, and i like sing a lot.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am from new york. i sing a lot of songs.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " no, i am single, but i like singing.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i love to read. i am just finished my second book this week.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i'm just got back from work. how are you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am good, just finished a book, what about you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " oh no kidding! i am a veterinarian, i am a vet. what do you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that's good. i am a vet, what do you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i love garlic bread.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " yes, i love hummus. i like garlic bread. <s> & garlic bread is delicious.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i love to be eating kosher meals.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am a lot of spaghetti enthusiast. <s> & i love spaghetti with meatball. i like spaghetti.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " kosher meals are great for dinner for lunch. <s> & that is great. i love italian food.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " they are. i love cooking for my husband who is also loves to cook them.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " yes, i love to cook them, i love cooking too. do you have any favorite foods?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " yes, i do. and i knit them for my husband.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " yes, they are. do you have any hobbies?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " they sure are. i love cooking with them.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " hi! i am doing well. how are you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " hi! i'm doing good. just came here to visit my sister in new york.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am doing great! i am color blind. do you build them with my eyes.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " good! how are you? i am color blind, i'm color blind. do you build houses?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am fine, thanks for asking about you. i am color blind. i am color blind.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i love walking my big horse. i love to the beach too!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " walking everywhere i don't much<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i like to cook everyday. i work out too!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " walking my horse. do you like to exercise?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i love walking to music <s> & that! i live on my horse! don't much! walking. do you?! i like to get lots of hiking!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " oh wow. i am sorry to hear that.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that is very odd. i am so glad i work from home. i am a teacher.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i work in the morning to late nights to early afternoon, so i am used to late night shifts<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i've been off today. i have been binge watching the last three olympics. i love those.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i work from home, so i'm always at home, with my cats and my dogs.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i'm still in school. i am still in high school<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " thanks! i am trying to figure out my life<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " well, i try to read poetry, do you have any interesting things?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i'm sorry i just ate stickers, i'm hungry. do you like food?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i don't like the cold. do you have a dog?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " well that's cool, i love to cook! i also have two dogs and cats. i've two. i have two. i love them.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i also like to cook and read play with my cat and play video games.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i love cooking and reading plays. i also like to relax with my cats and dogs.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i love to cook play with my cats and read play video games with them.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that is so cool. what do you like to cook?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " that's cool. i'm a single, my husband.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am single, but i've kids too!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am single. i am a single and i have kids.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that is good to share! i am single though.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that's nice. i am single. i have kids.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i love to exercise. i do exercise<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " do you have a job. what do you do?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i love to stay away from people. i love dogs. don't much.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " yeah. do you have any pets? i have dogs. i've a pitbull and a pitbull.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i love animals. what do you have any pets?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i love fall. it is chilly here. i am an accountant. i am a single with two kids.<|endoftext|>! & nice. i work as an accountant. i work as an accountant.<|endoftext|>! <s> & i work as an accountant. i work as an accountant. i enjoy fall is boring. do you? boring! i enjoy it.<|endoftext|>!!!!!!!",
+    " no kids, i don't. just an accountant<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " no kids? i am a single and just work as an accountant<|endoftext|>!. do you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i do. i like it. i like it.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " yes. i love fall is a beautiful weather! i love it.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i enjoy web design a lot<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " & wow, that sounds interesting, i love to work with the web, i code a lot<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " & that sounds fun, web design work. i am a bit different, i enjoy it. i code a lot.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i like to be honest, i like to be honest<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i like to keep busy. i like the internet more when i love programming.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " that is cool! i am not. i just want to have no family.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i'm a student, i have no siblings, but they're always with me.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i'm a law student. what do you like to do for fun?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i'm a student too. i am going to law school in two years.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that sounds interesting. i am in school for law.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i am a punk rock<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that sounds fun!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i work with my spare time. i don't much<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that is cool job <s> & i work in a soft spot<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am in a punk rock music<|endoftext|>! <s> & i'm a hardcore hardcore! i like the music<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " they do!! what do you do you like to do for fun?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " they are ready<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i want to see them in concert<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " they are older i love to go<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i have time i love video game time<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i love to. <s> & i am a nurse myself. what don't much. i love to shop. i love to shop.<|endoftext|>! i love to shop. i love it! shopping! i shop all the same. i love shopping. <s too! i shop. i shop all the same! <s! i love to shop. i love shopping. i love shopping",
+    " i love to death metal. <s> & i love shopping! i love it, especially clothing, i love shopping, i'm very cool. i like to shop all kinds of clothing! i love it.<|endoftext|>! <s! i love shopping! i like to. <s> & shopping! i love it is fun! i love shopping! i love it! <s> &",
+    " that is exciting! <s> & i'm a nurse. what do you have a sister. i am going to get it! i love it! i am very close with my aunt. i'm very close to my sister! <s> & i'm so i have a relative! <s> & i love it! <s> & wow! i cannot wait tables! <s",
+    " that is cool. <s> & i am a nurse too. i love to nurse too! i love to be. i'm going to get plenty! <s> & well, but i am very cool, i am so i'm so i love shopping. i love shopping for clothes shopping. i want to get lots of shopping!<|endoftext|>! <s> & shopping! i'm very",
+    " i love to! <s> & that is interesting. i love to hear you. do you have a lot of clothing shopping. i am so i love it. i am very fashionable. i love it. i love to shop. i love to it. i love shopping. i love it. i shop.<|endoftext|>! <s shopping. shopping! shopping. <s> & shopping!"
+  ],
+  [
+    " i'm eating. i've spare time. i love cheeseburger. i've time. i'm a lot of spare time.<|endoftext|>! i love to spend it!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " eating some spare time i love eating some right now, i love to go out to go to read<|endoftext|>!!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am good. i am just finished with some spare time i read a book for the library<|endoftext|>! <s> & i'm busy with my husband, i love reading, what do.<|endoftext|>! & oh, i'ma spare time, i love reading. i'm just finished my free to read.<|endoftext|>! i read, what don't much fun.<|endoftext|>!!a book!",
+    " eating time, i'm a little hungry for a burger. i love eating time.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i'm eating. i love pizza, i love pizza. what is yours? i'm eating.<|endoftext|>! <s> & i'm eating cheeseba slice of pizza. i love it! i'm hungry for the holidays!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i'm retired from banking. retired now i'm retired.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i try to walk as many times. i am retired from banking. retired from banking.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " wow, that's pretty impressive!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am retired from banking. i am retired.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that's cool! do you like walking. i like to get exercise.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i sing well, i don't. i don't sing well.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " no singing is that bad? i don't. i don't know what you sing very well.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " yes, i sing very nice.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i don't know what to sing. i don't know.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i do sing, but not very well.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i teach biology part of walking!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i teach biology part of walking. what do you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " ohio is a great place to visit. i love to walk. do you have been there.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " what kind of music i love nature. i love nature.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " what grade. i like to do like to go to do. i teach biology.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " yes i do, but i am only have 2 dogs.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " yes i do, i have a daughter, she is a junior.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i have two kids, i love music. they are great.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i don't. i've a couple. i work in a husband and i work in the insurance business too.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i have kids. they love the band rush. i listen to every weekend.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " yes. i am not boring. i am 5 foot, 5 feet.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am not. i am from.. i am five feet tall!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am only five feet tall.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " no. i'm 5 foot tall.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am from. i like the food there. i like to eat a lot of sweets. i like to eat them.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i'm allergic to shellfish are not. i love to fish!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i love to go to the beach.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " chocolate is it is great for me! i am allergic to shellfish! i am allergic to shellfish!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i love soccer. i play it is fun.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am allergic to shellfish. do you like to seafood.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i can hunt. i am hungry for food.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i'll get there someday. i like to hunt for food for food. i love to eat!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i can find them!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i can find them. i can hunt them for food. do. <s> & yes, do you hungry? i'm hungry?! i love to hunt for food for food?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i can hunt for them again. i love animals.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i'm vegan? i like taylor swift.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " yeah? i love horses, i do. i like horses. i like to sing! <s> & yes, i live in a large city.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i love taylor swift. what do you like?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i like horses.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " yeah, i like to eat it<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i love to lose weight. <s> & i love to lose weight! i work as i love swimming everyday.<|endoftext|>! <s> & i'm a treadmill and exercise, and exercise, i love it helps me!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " that <s> & yes i like swimming. i am a lot. i love swimming everyday to lose weight, i do that! i love swimming every day. do that's to stay away from work! i love to. <s> & swimming to stay away from home alone!<|endoftext|>! <s> & i do you! i love swimming! i love swimming. i love swimming!",
+    " well <s> & i'm not fit to lose weight but i love swimming everyday i love to lose weight. i love to be healthy.<|endoftext|>!! <s> & i love to the water. i am so exercise. i love swimming. i am a treadmill and love swimming.<|endoftext|>!!!!!!!!!!!!!!!!!!!!",
+    " i love to lose weight. i'm married. <s> & i work as a kindergarten teacher! i am a teacher!<|endoftext|>! <s> & that is nice! i do that is great! i love kids, i do that's fun. do teach kindergarten!<|endoftext|>! <s> & i do that's fun! i am great! i love to learn a lot of gymn",
+    " i'm skinny. i workout every day <s> & well i'm a kindergarten teacher<|endoftext|>! i love kids and love to be healthy and swimming every day. i teach them! <s> & i'm always go swimming every day to keep my kids. i am a lot of them healthy. <s> & i love swimming and i love the children. do you? <s>"
+  ],
+  [
+    " i am studying photography. <s> & i love photography <s> & wow! i love horror movies. i'm studying photography. i love it, but i love horror, photography is interesting. i like horror. do you? <s> & horror! horror! i'm scared! horror! <s> & horror. i like horror! i'm scared! i like it is",
+    " i am a lot of horror movies too. horror movies. <s> & horror movies too! i love horror! horror is good. i love horror! horror! <s!! horror! i love horror movies! i love horror! horror! horror!! i love horror is the best!! <!!!!!!!!!!!!!!!!!",
+    " wow! <s> & yes, my father is a horror movies too! horror movies too! horror movies! i love it is my favorite is great! i like horror movies too. what about you? horror! horror movies!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i'm a farmer? & i live in the mountains. <s> & i am a farmer!! i am from south car salesman. i love horror movies too. i love horror movies too. <s> & horror movies! i love horror movies are my favorite is fun!!<|endoftext|>!!!!!!!!!!!!!!!!!!!!",
+    " i love horror movies too. horror movies too! <s> & horror movies are my favorite is great!! i'm a horror movies are scary! i love it. horror movies. i like to!! <s> & horror. horror is cool! i love horror is very cool!!! <s> & i like horror! i'm in your favorite!!! i'm"
+  ],
+  [
+    " i'm doing fine, thanks. how are you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i'm doing good. how are you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am doing well. how are you? i am afraid of spiders and snakes.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am good, just got off work at the depot for my weekly store.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " good. how are you? i'm just writing up watching a sci fi book. i'm afraid of spiders and scorpions.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " i'm married to my music teacher<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " yeah, i'm in love with rap music, rap music.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " yes, i've been married for 10 years. we are both very supportive<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " yes i am. i'm engaged.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " yes, i'm engaged! i'm 22<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " my name is mike and i volunteer with the red cross<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i named my cat mike. i'm a vet and love animals<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " my parents named me and papaya and my brother are rescues<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " my cats name is charlie. do you have any pets?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i like red, and green, i love nature documentaries<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " no, i do, i'm a lot of animals too! i love animals that! do, i love animals. i'm a dog walking. i love animals!<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " they are so i love animals too. i like to eat them. what do. i spend my parents are animals too. they eat the fish too!<|endoftext|>! <s> & i spend most days at school. what don't so much time with the fish.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i do. i spend most days at the beach when i love to relax at school <s> & i am still in the ocean, i spend most days at school. i live under the beach. i like the beach. i love the ocean, i spend most of course.<|endoftext|>! <s> & you are you? <s> & i love animals! i love animals. i",
+    " yes they are. i like to. what don't much. do. i like to. i spend most days at school <s> & i like to play with my school too.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i don't hunt them. i'm a lot of animals. i love animals. i'm a lot of them. i spend most of time at school too. <s> & i love animals. do you? i am a lot of them when i am disabled.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!"
+  ],
+  [
+    " no i'm not. i am unhappy with my weight and i am unhappy<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " yes i am, i am, i am unhappy with my weight though, and i am unhappy<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " yes, i'm just got back from work. how are you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " no. i am very busy with school and work. i have to attend to my children.<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    " i am. i just got home from work, actually. how about you?<|endoftext|>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  ]
+]

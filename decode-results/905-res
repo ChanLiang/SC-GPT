@@ -1,0 +1,86 @@
+lex_neg
+Using data from /gds/lchen/.cache/nlgeval
+In case of broken downloads, remove the directory and run setup again.
+Bleu_1: 0.120603
+Bleu_2: 0.055567
+Bleu_3: 0.022105
+Bleu_4: 0.000002
+METEOR: 0.072390
+ROUGE_L: 0.116255
+CIDEr: 0.156243
+lex_maj3
+Using data from /gds/lchen/.cache/nlgeval
+In case of broken downloads, remove the directory and run setup again.
+Bleu_1: 0.115400
+Bleu_2: 0.054243
+Bleu_3: 0.023446
+Bleu_4: 0.000002
+METEOR: 0.074048
+ROUGE_L: 0.115097
+CIDEr: 0.141388
+lex_maj10
+Using data from /gds/lchen/.cache/nlgeval
+In case of broken downloads, remove the directory and run setup again.
+Bleu_1: 0.117838
+Bleu_2: 0.053270
+Bleu_3: 0.021450
+Bleu_4: 0.009930
+METEOR: 0.072786
+ROUGE_L: 0.109509
+CIDEr: 0.117012
+lex_nmaj3
+Using data from /gds/lchen/.cache/nlgeval
+In case of broken downloads, remove the directory and run setup again.
+Bleu_1: 0.124745
+Bleu_2: 0.063751
+Bleu_3: 0.027732
+Bleu_4: 0.000002
+METEOR: 0.079451
+ROUGE_L: 0.122706
+CIDEr: 0.156053
+lex_nmaj10
+lex_neg
+Using data from /gds/lchen/.cache/nlgeval
+In case of broken downloads, remove the directory and run setup again.
+lex_maj3
+Using data from /gds/lchen/.cache/nlgeval
+In case of broken downloads, remove the directory and run setup again.
+lex_maj10
+Using data from /gds/lchen/.cache/nlgeval
+In case of broken downloads, remove the directory and run setup again.
+lex_nmaj3
+Using data from /gds/lchen/.cache/nlgeval
+In case of broken downloads, remove the directory and run setup again.
+lex_nmaj10
+Using data from /gds/lchen/.cache/nlgeval
+In case of broken downloads, remove the directory and run setup again.
+lex_neg
+Using data from /gds/lchen/.cache/nlgeval
+In case of broken downloads, remove the directory and run setup again.
+lex_maj3
+Using data from /gds/lchen/.cache/nlgeval
+In case of broken downloads, remove the directory and run setup again.
+lex_maj10
+Using data from /gds/lchen/.cache/nlgeval
+In case of broken downloads, remove the directory and run setup again.
+lex_nmaj3
+Using data from /gds/lchen/.cache/nlgeval
+In case of broken downloads, remove the directory and run setup again.
+lex_nmaj10
+Using data from /gds/lchen/.cache/nlgeval
+In case of broken downloads, remove the directory and run setup again.
+lex_neg
+Using data from /gds/lchen/.cache/nlgeval
+In case of broken downloads, remove the directory and run setup again.
+lex_maj3
+Using data from /gds/lchen/.cache/nlgeval
+In case of broken downloads, remove the directory and run setup again.
+lex_maj10
+Using data from /gds/lchen/.cache/nlgeval
+In case of broken downloads, remove the directory and run setup again.
+lex_nmaj3
+Using data from /gds/lchen/.cache/nlgeval
+In case of broken downloads, remove the directory and run setup again.
+lex_nmaj10
+Using data from /gds/lchen/.cache/nlgeval
+In case of broken downloads, remove the directory and run setup again.
